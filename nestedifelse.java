@@ -1,3 +1,4 @@
+//12.... Nested if else...
 import java.util.Scanner;
 public class nestedifelse
  {
