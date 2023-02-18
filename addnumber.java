@@ -4,9 +4,9 @@ public class addnumber {
     public static void main(String[] args) {
         int p , m , a;
         System.out.println("enter the two numbers for Adding :");
-        Scanner pma = new Scanner(System.in);
-        p = pma.nextInt();
-        m = pma.nextInt();
+        Scanner input = new Scanner(System.in);
+        p = input.nextInt();
+        m = input.nextInt();
         a = p+m;
         System.out.println("TOTAL = " +a);
     }
