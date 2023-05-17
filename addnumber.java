@@ -1,4 +1,4 @@
-//8TH .. ADD TWO NUMBERS
+//8TH .. ADD TWO NUMBERS.
 import java.util.Scanner;
 public class addnumber {
     public static void main(String[] args) {
